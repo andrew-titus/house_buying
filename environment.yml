@@ -1,0 +1,13 @@
+name: house_buying
+channels:
+    - conda
+    - conda-forge
+dependencies:
+    - python=3.7
+    - folium=0.12.1 
+    - geopy=2.1.0
+    - notebook=6.2.0
+    - numpy=1.19.5
+    - pandas=1.2.1
+    - scikit-learn=0.24.1
+    - scipy=1.6.0
