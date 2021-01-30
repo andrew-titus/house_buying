@@ -1,0 +1,8 @@
+6 Ladyslipper Ln 42.493020 -71.410110 0
+36 Abbottswood 42.395300 -71.436680 1
+3 Pine Ridge Road 42.335750 -71.375120 2
+9 Pine Brook Road 42.358350 -71.344050 2
+130 Taylor Farm Road 42.474228 -71.501490 5
+152 Taylor Farm Road 42.474404 -71.501573 5
+90 Taylor Farm Road 42.474252 -71.501533 5
+34 Old Sudbury Road 42.402575 -71.325887 7
